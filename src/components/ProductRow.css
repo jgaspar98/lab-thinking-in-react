@@ -1,0 +1,15 @@
+.ProductRow{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.products{
+ margin-left: auto;
+ margin-right: auto;
+}
+
+.prices{
+  margin-left: auto;
+ margin-right: auto;
+}
